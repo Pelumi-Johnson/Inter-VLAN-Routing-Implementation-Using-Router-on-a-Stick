@@ -83,7 +83,7 @@ Gateway 192.168.30.1
 
 
 Screenshot Placeholder PC Configuration
-![PC IP Config](./screenshots/pc-ip-config.png)
+![PC IP Config](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-03%20022010.png)
 
 ## Validation
 Performed connectivity testing to verify inter VLAN communication
