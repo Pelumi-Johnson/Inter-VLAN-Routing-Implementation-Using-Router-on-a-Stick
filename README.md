@@ -62,7 +62,7 @@ Screenshot Placeholder Router Subinterfaces
 
 ---
 
-![Router Subinterfaces]
+![Router Subinterfaces](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-03%20021925.png)
 
 ### End Device IP Configuration
 VLAN 10 HR
