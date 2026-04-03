@@ -19,13 +19,14 @@ VLAN segmentation applied at the switch level
 Routing performed at the router via subinterfaces
 
 
-![Network Topology](./screenshots/topology.png)
+![Network Topology](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-03%20020457.png)
 
 ## Configuration
 
 ### VLAN Segmentation Pre existing
-VLAN 10 assigned to HR devices
-VLAN 20 assigned to IT devices
+- VLAN 10 assigned to HR devices
+- VLAN 20 assigned to IT devices
+- VLAN 30 assigned to FINANCE devices
 
 Screenshot Placeholder VLAN Configuration
 ![VLAN Configuration](./screenshots/vlan-config.png)
