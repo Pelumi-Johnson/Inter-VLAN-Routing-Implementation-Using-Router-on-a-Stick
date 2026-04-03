@@ -39,8 +39,7 @@ interface fastEthernet 0/24
 switchport mode trunk
 exit
 
-Screenshot Placeholder Trunk Verification
-![Trunk Port](./screenshots/show-trunk.png)
+![Trunk Port](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-03%20021314.png)
 
 ### Router Subinterface Configuration
 Implemented Router on a Stick by creating subinterfaces for each VLAN and assigning gateway IP addresses
