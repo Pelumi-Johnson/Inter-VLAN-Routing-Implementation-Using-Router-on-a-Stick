@@ -28,7 +28,6 @@ Routing performed at the router via subinterfaces
 - VLAN 20 assigned to IT devices
 - VLAN 30 assigned to FINANCE devices
 
-Screenshot Placeholder VLAN Configuration
 ![VLAN Configuration](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-03%20020847.png)
 
 ### Trunk Configuration Switch
