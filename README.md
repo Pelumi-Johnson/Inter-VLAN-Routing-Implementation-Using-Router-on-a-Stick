@@ -43,7 +43,7 @@ exit
 
 ### Router Subinterface Configuration
 Implemented Router on a Stick by creating subinterfaces for each VLAN and assigning gateway IP addresses
-
+```
 enable
 configure terminal
 interface gigabitEthernet 0/0.10
@@ -54,9 +54,13 @@ interface gigabitEthernet 0/0.20
 encapsulation dot1Q 20
 ip address 192.168.20.1 255.255.255.0
 
+interface gigabitEthernet 0/0.30
+encapsulation dot1Q 20
+ip address 192.168.30.1 255.255.255.0
+
 interface gigabitEthernet 0/0
 no shutdown
-
+```
 Screenshot Placeholder Router Subinterfaces
 ![Router Subinterfaces](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-03%20021752.png)
 
