@@ -77,6 +77,11 @@ VLAN 20 IT
 IP 192.168.20.10
 Gateway 192.168.20.1
 
+VLAN 20 FINANCE
+IP 192.168.30.10
+Gateway 192.168.30.1
+
+
 Screenshot Placeholder PC Configuration
 ![PC IP Config](./screenshots/pc-ip-config.png)
 
