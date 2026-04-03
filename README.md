@@ -58,7 +58,11 @@ interface gigabitEthernet 0/0
 no shutdown
 
 Screenshot Placeholder Router Subinterfaces
-![Router Subinterfaces](./screenshots/router-subinterfaces.png)
+![Router Subinterfaces](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-03%20021752.png)
+
+---
+
+![Router Subinterfaces]
 
 ### End Device IP Configuration
 VLAN 10 HR
