@@ -82,8 +82,12 @@ IP 192.168.30.10
 Gateway 192.168.30.1
 
 
-Screenshot Placeholder PC Configuration
+
 ![PC IP Config](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-03%20022010.png)
+
+---
+
+![PC IP Config](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-03%20022054.png)
 
 ## Validation
 Performed connectivity testing to verify inter VLAN communication
@@ -93,7 +97,7 @@ Confirmed successful packet transmission via router
 
 ping 192.168.20.10
 
-Screenshot Placeholder Successful Ping
+
 ![Ping Success](./screenshots/ping-success.png)
 
 ## Key Concepts Applied
