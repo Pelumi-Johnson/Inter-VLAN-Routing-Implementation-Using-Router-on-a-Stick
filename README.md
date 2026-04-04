@@ -121,8 +121,11 @@ Missing encapsulation dot1Q preventing router from identifying VLAN traffic
 
 Verified and restored functionality through targeted troubleshooting
 
+---
+
 ![Failure Test](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-04%20130704.png)
 ![Failure Test](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-04%20131231.png)
+![Failure Test](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-04%20132039.png)
 
 ---
 
