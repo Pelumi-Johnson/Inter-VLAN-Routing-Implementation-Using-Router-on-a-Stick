@@ -132,6 +132,9 @@ Verified and restored functionality through targeted troubleshooting
 ---
 
 ![Failure Test](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-04%20132739.png)
+![Failure Test](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-04%20132815.png)
+
+---
 
 ## Project Summary
 Implemented a scalable inter VLAN routing solution enabling secure and structured communication across segmented networks
