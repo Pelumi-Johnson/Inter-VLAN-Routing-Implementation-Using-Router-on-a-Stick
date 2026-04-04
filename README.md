@@ -94,11 +94,11 @@ Performed connectivity testing to verify inter VLAN communication
 
 Initiated ICMP test from VLAN 10 to VLAN 20
 Confirmed successful packet transmission via router
-
+    
 ping 192.168.20.10
 
 
-![Ping Success](./screenshots/ping-success.png)
+![Ping Success](https://github.com/Pelumi-Johnson/Inter-VLAN-Routing-Implementation-Using-Router-on-a-Stick/blob/main/Screenshot%202026-04-03%20022253.png)
 
 ## Key Concepts Applied
 VLAN segmentation to isolate broadcast domains
