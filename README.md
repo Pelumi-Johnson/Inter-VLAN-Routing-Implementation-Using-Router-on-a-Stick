@@ -115,13 +115,13 @@ Maintained segmentation while enabling inter department connectivity reflecting 
 ## Failure Testing and Troubleshooting
 Simulated misconfigurations to validate network dependency on correct setup
 
-Removed trunk configuration resulting in VLAN traffic failing to reach router
+- Removed trunk configuration resulting in VLAN traffic failing to reach router
 
-Incorrect default gateway preventing hosts from routing traffic
+- Incorrect default gateway preventing hosts from routing traffic
 
-Missing encapsulation dot1Q preventing router from identifying VLAN traffic
+- Missing encapsulation dot1Q preventing router from identifying VLAN traffic
 
-Verified and restored functionality through targeted troubleshooting
+- Verified and restored functionality through targeted troubleshooting
 
 ---
 
